@@ -1,6 +1,7 @@
 *
 
 !ixp_*/**/bird.conf
+!plt_*/**/bird.conf
 
 !.gitignore
 !README.md
